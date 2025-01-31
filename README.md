@@ -1,2 +1,2 @@
 # TicTacToeGame
-TicTactToe Game using Multithreading in C and POSIX
+TicTacToe Game using Multithreading in C and POSIX
