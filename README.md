@@ -1,6 +1,6 @@
 TicTacToeGame
 ---------------
-TicTacToe Game using Multithreading in C and POSIX
+TicTacToe Game using Multithreading in C++ and POSIX
 Objective:
 Create a multi-threaded TicTacToe Game where two players, X and O, make random moves.
 The game should be controlled by two threads, one for each player. 
